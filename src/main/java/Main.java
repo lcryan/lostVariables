@@ -9,9 +9,9 @@ public class Main {
         short short_minus_eight = -8;
         float float_six_point_five = 6.5f;
         double double_minus_two_point_three = 2.3;
-boolean_true = false;
+        boolean_true = false;
 
-
+        float_six_point_five = 6.25f;
 
 
         // Wijzig niets aan onderstaande System.out.println statements
